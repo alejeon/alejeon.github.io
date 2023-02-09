@@ -7,4 +7,4 @@ title: "Primer Posteo en Github Pages"
 
 Va a ser el lugar para la fotografia
 
-![kimchi](../images/2023-02-07-primerposteo/kimchi.jpg)
+![kimchi]({{site.url}}/images/2023-02-07-primerposteo/kimchi.jpg)
